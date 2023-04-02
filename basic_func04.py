@@ -1,6 +1,6 @@
 # Create a function called main.
 def main(a):
 # Return the value integer type.
-    return 69 
-a=69
+    return 1
+a=1
 print(a)
