@@ -1,6 +1,5 @@
 # Create a function called main.
-def main(a):
+def main():
 # Return the value "Hello World"
     return "Hello World"
-a=main(a="Hello World")
-print(a)
+print(main())
