@@ -3,4 +3,4 @@ def main(a):
 # Create function arguments a.
     return a*(-1)
 # Return the opposite value of a.
-print(main(a=7))
+print(main(a=1))
